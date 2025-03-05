@@ -20,7 +20,7 @@ Demo Video: [Coming Soon](https://drive.google.com/file/d/1cK8KzbK9Uaz1iAFrvTHoO
 
 ### Device Management
 - Register and manage multiple devices for WhatsApp.
-- **Embedded Login**: Follow the [device setup tutorial](https://www.youtube.com/watch?v=Lj0Q5J-G84Q) to link devices.
+- **Embedded Login**
 - View mobile numbers and manage device-related options seamlessly.
 
 ### Templates Management
@@ -74,7 +74,7 @@ Explore the interface and key features of the Digi3 AI WhatsApp Messaging Panel:
 ---
 
 ## Demo Video
-[*(Video)*]([https://shorturl.at/P0C2F](https://drive.google.com/file/d/1cK8KzbK9Uaz1iAFrvTHoOSugtRwBpJlT/view?usp=sharing))
+[*(Video)*](https://shorturl.at/P0C2F](https://drive.google.com/file/d/1cK8KzbK9Uaz1iAFrvTHoOSugtRwBpJlT/view?usp=sharing)
 
 ---
 
