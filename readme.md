@@ -25,7 +25,6 @@ Demo Video: [Coming Soon](https://drive.google.com/file/d/1cK8KzbK9Uaz1iAFrvTHoO
 
 ### Templates Management
 - View a list of all approved templates.
-- Create new templates with ease: [Watch the Tutorial](https://www.youtube.com/watch?v=OosqFtg1_q0).
 
 ### Contacts & Groups
 - **Add Contacts**: Create individual contacts or bulk import using a [sample CSV](https://whatsapp.digi3.in/uploads/demo-contact.csv).
@@ -69,13 +68,13 @@ Explore the interface and key features of the Digi3 AI WhatsApp Messaging Panel:
 ## Getting Started
 
 1. **Register and Login**: [Sign Up](https://whatsapp.digi3.in/register/2) and [Log In](https://whatsapp.digi3.in/login).  
-2. **Set Up Your Device**: Follow the [Embedded Login Guide](https://www.youtube.com/watch?v=Lj0Q5J-G84Q).  
+2. **Set Up Your Device** 
 3. **Start Messaging**: Create templates, add contacts, and send messages!
 
 ---
 
 ## Demo Video
-[*(Video)*](https://shorturl.at/P0C2F)
+[*(Video)*]([https://shorturl.at/P0C2F](https://drive.google.com/file/d/1cK8KzbK9Uaz1iAFrvTHoOSugtRwBpJlT/view?usp=sharing))
 
 ---
 
