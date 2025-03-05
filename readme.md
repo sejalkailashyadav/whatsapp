@@ -74,7 +74,7 @@ Explore the interface and key features of the Digi3 AI WhatsApp Messaging Panel:
 ---
 
 ## Demo Video
-[*(Video)*](https://shorturl.at/P0C2F](https://drive.google.com/file/d/1cK8KzbK9Uaz1iAFrvTHoOSugtRwBpJlT/view?usp=sharing)
+[Video](https://drive.google.com/file/d/1cK8KzbK9Uaz1iAFrvTHoOSugtRwBpJlT/view?usp=sharing)
 
 ---
 
