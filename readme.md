@@ -7,7 +7,7 @@
 Welcome to the **Digi3 AI WhatsApp Messaging Panel**, an innovative solution for businesses to efficiently manage and send bulk WhatsApp messages. 🚀
 
 Live Site: [Digi3.ai](https://digi3.ai/)  
-Demo Video: [Coming Soon](https://drive.google.com/file/d/1cK8KzbK9Uaz1iAFrvTHoOSugtRwBpJlT/view?usp=sharing)
+Demo Video: [](https://drive.google.com/file/d/1cK8KzbK9Uaz1iAFrvTHoOSugtRwBpJlT/view?usp=sharing)
 
 ---
 
