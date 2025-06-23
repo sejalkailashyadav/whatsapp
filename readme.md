@@ -26,7 +26,7 @@ Demo Video: [Video](https://drive.google.com/file/d/1cK8KzbK9Uaz1iAFrvTHoOSugtRw
 ### Templates Management
 - View a list of all approved templates.
 
-### Contacts & Groups
+### Contacts & Groupss
 - **Add Contacts**: Create individual contacts or bulk import using a [sample CSV](https://whatsapp.digi3.in/uploads/demo-contact.csv).
 - **Group Contacts**: Organize contacts into groups and send messages efficiently.
 
