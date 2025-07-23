@@ -1,8 +1,4 @@
-
-
----
-
-# WhatsApp Bulk Messaging Panell
+# WhatsApp Bulk Messaging Panel
 
 Welcome to the **Digi3 AI WhatsApp Messaging Panel**, an innovative solution for businesses to efficiently manage and send bulk WhatsApp messages. 🚀
 
