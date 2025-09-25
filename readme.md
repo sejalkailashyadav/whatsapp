@@ -9,7 +9,6 @@ Demo Video: [Video](https://drive.google.com/file/d/1cK8KzbK9Uaz1iAFrvTHoOSugtRw
 ---
 
 ## Key Features
-
 ### Registration & Trial
 - **Register Now**: [Sign Up Here](https://whatsapp.digi3.in/register/2)  
   Enjoy a **7-day trial** to explore all the features of the platform.  
