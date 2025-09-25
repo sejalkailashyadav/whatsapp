@@ -20,6 +20,7 @@ Demo Video: [Video](https://drive.google.com/file/d/1cK8KzbK9Uaz1iAFrvTHoOSugtRw
 
 - View mobile numbers and manage device-related options seamlessly.
 
+
 ### Templates Management
 - View a list of all approved templates.
 
