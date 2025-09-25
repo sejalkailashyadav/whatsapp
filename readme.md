@@ -17,6 +17,7 @@ Demo Video: [Video](https://drive.google.com/file/d/1cK8KzbK9Uaz1iAFrvTHoOSugtRw
 ### Device Management
 - Register and manage multiple devices for WhatsApp.
 - **Embedded Login**
+
 - View mobile numbers and manage device-related options seamlessly.
 
 ### Templates Management
